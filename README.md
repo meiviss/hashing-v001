@@ -1,3 +1,5 @@
+![Hashing Tool Logo](https://i.imgur.com/seusexemplo.png)
+
 # 🔐 Multi-Platform Hashing Tool
 
 **🌐 Multi-Platform Support**  
