@@ -1,4 +1,4 @@
-![Hashing Tool Logo](https://i.imgur.com/seusexemplo.png)
+![Hashing Tool Logo](Screenshot_20250201-160941.png)
 
 # 🔐 Multi-Platform Hashing Tool
 
