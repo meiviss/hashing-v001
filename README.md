@@ -45,8 +45,12 @@ This project is **not a Git repository to clone**. Instead, it provides a **read
      gcc -o hash_program hash_program.c -lssl -lcrypto -Wno-deprecated-declarations
      chmod +x hash_program
      ./hash_program
-     ```  
-
+     ```
+     - To install on android or Linux
+     ```
+     sudo apt install libssl-dev   # In Linux
+     pkg install openssl          # In Termux
+     ```
 ---
 
 ## 🤝 Join the Community  
