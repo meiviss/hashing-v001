@@ -42,7 +42,9 @@ This project is **not a Git repository to clone**. Instead, it provides a **read
 3. **Run It**  
    - Use the command-line interface to hash your data:  
      ```bash  
-     ./hashing-tool --algorithm md5 --input yourfile.txt  
+     gcc -o hash_program hash_program.c -lssl -lcrypto -Wno-deprecated-declarations
+     chmod +x hash_program
+     ./hash_program
      ```  
 
 ---
